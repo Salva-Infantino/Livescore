@@ -1,0 +1,29 @@
+img {
+    width: 4rem;
+}
+
+a {
+    text-decoration: none;
+
+    svg {
+        font-size: 6rem;
+    }
+}
+
+.fz-12 {
+    font-size: 0.85em;
+}
+
+.fz-14 {
+    font-size: 0.875em;
+}
+
+.favGame {
+    transition: $transition;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #202020;
+        transform: scale(.95);
+    }
+}

@@ -1,0 +1,55 @@
+.menu {
+    font-size: 0.8rem;
+
+    img {
+        width: 1rem;
+        margin-right: .5rem;
+    }
+
+    .list-group-item {
+        background-color: black;
+        color: grey;
+
+        svg {
+            font-size: 1rem;
+            margin-right: 0.5rem;
+            width: 1rem;
+
+            polyline {
+                stroke: grey;
+            }
+        }
+
+        &:hover,
+        &.active {
+            background-color: grey;
+            color: black;
+
+            svg {
+                polyline {
+                    stroke: black;
+                }
+            }
+        }
+    }
+}
+
+.league {
+    svg {
+        polyline {
+            stroke: white;
+        }
+    }
+}
+
+.game {
+    img {
+        width: 1.5rem;
+        margin-right: 1rem;
+    }
+
+    svg {
+        font-size: 1.5rem;
+        cursor: pointer;
+    }
+}

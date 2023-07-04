@@ -1,0 +1,47 @@
+.topNav {
+    span {
+        svg {
+            polyline {
+                stroke: white;
+            }
+
+        }
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .fav {
+        font-size: 1.5rem;
+    }
+}
+
+.GameView {
+    img {
+        width: 2rem;
+    }
+}
+
+.card {
+    width: 10px;
+    height: 15px;
+    border-radius: 0;
+    transform: rotate(15deg);
+
+    &.yellow {
+        background-color: yellow;
+    }
+
+    &.red {
+        background-color: red;
+    }
+}
+
+@media (min-width: 576px) {
+    .GameView {
+        img {
+            width: 4rem;
+        }
+    }
+}

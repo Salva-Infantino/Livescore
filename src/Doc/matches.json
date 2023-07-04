@@ -1,0 +1,575 @@
+{
+  "response": [
+    {
+      "fixture": {
+        "id": 648670,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T13:15:00+00:00",
+        "timestamp": 1617801300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1921,
+          "name": "Mumias Sports Complex",
+          "city": "Mumias"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 276,
+        "name": "Premier League",
+        "country": "Kenya",
+        "logo": "https://media.api-sports.io/football/leagues/276.png",
+        "flag": "https://media.api-sports.io/flags/ke.svg",
+        "season": 2020,
+        "round": "Regular Season - 17"
+      },
+      "teams": {
+        "home": {
+          "id": 2472,
+          "name": "AFC Leopards",
+          "logo": "https://media.api-sports.io/football/teams/2472.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2466,
+          "name": "Vihiga United FC",
+          "logo": "https://media.api-sports.io/football/teams/2466.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 588250,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T13:30:00+00:00",
+        "timestamp": 1617802200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 7877,
+          "name": "Stadion FK Sloga Požega",
+          "city": "Požega"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 575,
+        "name": "Srpska Liga - West",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/leagues/575.png",
+        "flag": "https://media.api-sports.io/flags/rs.svg",
+        "season": 2020,
+        "round": "West - 23"
+      },
+      "teams": {
+        "home": {
+          "id": 12345,
+          "name": "Sloga Požega",
+          "logo": "https://media.api-sports.io/football/teams/12345.png",
+          "winner": null
+        },
+        "away": {
+          "id": 12319,
+          "name": "Jedinstvo Ub",
+          "logo": "https://media.api-sports.io/football/teams/12319.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 588251,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T13:30:00+00:00",
+        "timestamp": 1617802200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1423,
+          "name": "Gradski Stadion",
+          "city": "Novi Pazar"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 575,
+        "name": "Srpska Liga - West",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/leagues/575.png",
+        "flag": "https://media.api-sports.io/flags/rs.svg",
+        "season": 2020,
+        "round": "West - 23"
+      },
+      "teams": {
+        "home": {
+          "id": 12320,
+          "name": "Jošanica",
+          "logo": "https://media.api-sports.io/football/teams/12320.png",
+          "winner": null
+        },
+        "away": {
+          "id": 12353,
+          "name": "Trepča",
+          "logo": "https://media.api-sports.io/football/teams/12353.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 588252,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T13:30:00+00:00",
+        "timestamp": 1617802200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stadion FK Gruža",
+          "city": "Knić"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 575,
+        "name": "Srpska Liga - West",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/leagues/575.png",
+        "flag": "https://media.api-sports.io/flags/rs.svg",
+        "season": 2020,
+        "round": "West - 23"
+      },
+      "teams": {
+        "home": {
+          "id": 14258,
+          "name": "Gruža",
+          "logo": "https://media.api-sports.io/football/teams/14258.png",
+          "winner": null
+        },
+        "away": {
+          "id": 12348,
+          "name": "Sušica",
+          "logo": "https://media.api-sports.io/football/teams/12348.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 568990,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T14:00:00+00:00",
+        "timestamp": 1617804000,
+        "periods": {
+          "first": 1617804000,
+          "second": null
+        },
+        "venue": {
+          "id": 7849,
+          "name": "Stadion FK IMT",
+          "city": "Novi Beograd"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 4
+        }
+      },
+      "league": {
+        "id": 287,
+        "name": "Prva Liga",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/leagues/287.png",
+        "flag": "https://media.api-sports.io/flags/rs.svg",
+        "season": 2020,
+        "round": "Regular Season - 26"
+      },
+      "teams": {
+        "home": {
+          "id": 12316,
+          "name": "IMT Novi Beograd",
+          "logo": "https://media.api-sports.io/football/teams/12316.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2642,
+          "name": "Zemun",
+          "logo": "https://media.api-sports.io/football/teams/2642.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": []
+    },
+    {
+      "fixture": {
+        "id": 568994,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T14:00:00+00:00",
+        "timestamp": 1617804000,
+        "periods": {
+          "first": 1617804000,
+          "second": null
+        },
+        "venue": {
+          "id": 7870,
+          "name": "Stadion Hesna",
+          "city": "Sremska Mitrovica"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 5
+        }
+      },
+      "league": {
+        "id": 287,
+        "name": "Prva Liga",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/leagues/287.png",
+        "flag": "https://media.api-sports.io/flags/rs.svg",
+        "season": 2020,
+        "round": "Regular Season - 26"
+      },
+      "teams": {
+        "home": {
+          "id": 12338,
+          "name": "Radnički Sr. Mitrovica",
+          "logo": "https://media.api-sports.io/football/teams/12338.png",
+          "winner": null
+        },
+        "away": {
+          "id": 2636,
+          "name": "Kolubara",
+          "logo": "https://media.api-sports.io/football/teams/2636.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": []
+    },
+    {
+      "fixture": {
+        "id": 568995,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T14:00:00+00:00",
+        "timestamp": 1617804000,
+        "periods": {
+          "first": 1617804000,
+          "second": null
+        },
+        "venue": {
+          "id": 7892,
+          "name": "Sportsko-Rekreativni Centar Mladost",
+          "city": "Pančevo"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 3
+        }
+      },
+      "league": {
+        "id": 287,
+        "name": "Prva Liga",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/leagues/287.png",
+        "flag": "https://media.api-sports.io/flags/rs.svg",
+        "season": 2020,
+        "round": "Regular Season - 26"
+      },
+      "teams": {
+        "home": {
+          "id": 12360,
+          "name": "Železničar Pančevo",
+          "logo": "https://media.api-sports.io/football/teams/12360.png",
+          "winner": true
+        },
+        "away": {
+          "id": 2632,
+          "name": "Jagodina",
+          "logo": "https://media.api-sports.io/football/teams/2632.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 2,
+            "extra": null
+          },
+          "team": {
+            "id": 12360,
+            "name": "Železničar Pančevo",
+            "logo": "https://media.api-sports.io/football/teams/12360.png"
+          },
+          "player": {
+            "id": null,
+            "name": null
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "fixture": {
+        "id": 575381,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-04-07T14:00:00+00:00",
+        "timestamp": 1617804000,
+        "periods": {
+          "first": 1617804000,
+          "second": null
+        },
+        "venue": {
+          "id": 7237,
+          "name": "Mestský štadión Partizán Bardejov",
+          "city": "Bardejov"
+        },
+        "status": {
+          "long": "First Half",
+          "short": "1H",
+          "elapsed": 7
+        }
+      },
+      "league": {
+        "id": 506,
+        "name": "2. liga",
+        "country": "Slovakia",
+        "logo": "https://media.api-sports.io/football/leagues/506.png",
+        "flag": "https://media.api-sports.io/flags/sk.svg",
+        "season": 2020,
+        "round": "Regular Season - 21"
+      },
+      "teams": {
+        "home": {
+          "id": 10537,
+          "name": "Partizán Bardejov",
+          "logo": "https://media.api-sports.io/football/teams/10537.png",
+          "winner": null
+        },
+        "away": {
+          "id": 10543,
+          "name": "Slavoj Trebišov",
+          "logo": "https://media.api-sports.io/football/teams/10543.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": []
+    }
+  ]
+} 
