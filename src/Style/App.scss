@@ -18,6 +18,10 @@ html,
 
 $transition: .2s;
 
+.spinner-grow {
+    height: 0.75rem;
+    width: 0.75rem;
+}
 .App {
     @import './Favorites.scss';
     @import './GameView.scss';

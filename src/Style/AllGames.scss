@@ -35,6 +35,9 @@
 }
 
 .league {
+    img {
+            width: 1.5rem;
+        }
     svg {
         polyline {
             stroke: white;
@@ -43,6 +46,7 @@
 }
 
 .game {
+    cursor: pointer;
     img {
         width: 1.5rem;
         margin-right: 1rem;
@@ -52,4 +56,12 @@
         font-size: 1.5rem;
         cursor: pointer;
     }
+                                                                &:hover {
+                                                                    background-color: grey !important;
+                                
+                                                                    span,
+                                                                    small {
+                                                                        color: black !important;
+                                                                    }
+                                                                }
 }

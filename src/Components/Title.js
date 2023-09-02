@@ -1,6 +1,10 @@
+import { Container } from "react-bootstrap";
+
 const Title = () => {
   return (
-    <h1 className="container text-center text-secondary mb-3 mb-lg-5">Livescore</h1>
+    <Container>
+      <h1 className="text-center text-secondary mb-3 mb-lg-5">Livescore</h1>
+    </Container>
   )
 }
 
